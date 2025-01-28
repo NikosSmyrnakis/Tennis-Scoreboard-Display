@@ -31,27 +31,27 @@ Here is a visual of the final product:
   </tr>
   <tr>
     <td><img src="images/IMG_3766.jpeg" width="100%"></td>
-    <td><img src="images/IMG_3776.jpg" width="50%"></td>
+    <td><img src="images/IMG_3776.jpg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_3906.jpeg" width="100%"></td>
-    <td><img src="images/IMG_3907.jpeg" width="50%"></td>
+    <td><img src="images/IMG_3907.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_3934.jpg" width="100%"></td>
-    <td><img src="images/IMG_0983.jpeg" width="50%"></td>
+    <td><img src="images/IMG_0983.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_0985.jpeg" width="100%"></td>
-    <td><img src="images/IMG_0987.jpeg" width="50%"></td>
+    <td><img src="images/IMG_0987.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_0990.jpeg" width="100%"></td>
-    <td><img src="images/IMG_4042.jpeg" width="50%"></td>
+    <td><img src="images/IMG_4042.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_4340.jpeg" width="100%"></td>
-    <td><img src="images/IMG_5837.jpg" width="50%"></td>
+    <td><img src="images/IMG_5837.jpg" width="100%"></td>
   </tr>
 </table>
 
