@@ -1,10 +1,9 @@
 # 📌 Tennis Scoreboard Display  
-A project showcasing the development of a tennis scoreboard.
+A project showcasing the development of a tennis scoreboard and its Application.
 This project involved creating a functional tennis scoreboard display. The images above document the assembly, wiring, and final result.
 
-- 🛠️ **Technologies Used**: (Add microcontroller, software, and other tools used)
-- ⚡ **Features**: (Mention main functionalities)
-- 📌 **Future Improvements**: (List any planned updates)
+- 🛠️ **Technologies Used**: (ESP32, software designed in C++ AND Javascript, hardware and PCB Design in EasyEDA)
+- ⚡ **Features**: A User-friendly Application for both iOS and Android that controls the Display.
 ---
 
 ## 🖼️ Project Images
