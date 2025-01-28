@@ -23,11 +23,11 @@ Here is a visual of the final product:
 <table>
   <tr>
     <td><img src="images/IMG_0135.jpeg" width="100%"></td>
-    <td><img src="images/IMG_1490.jpeg" width="50%"></td>
+    <td><img src="images/IMG_1490.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_1564.jpeg" width="100%"></td>
-    <td><img src="images/IMG_3745.jpeg" width="50%"></td>
+    <td><img src="images/IMG_3745.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_3766.jpeg" width="100%"></td>
