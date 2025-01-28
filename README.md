@@ -18,7 +18,7 @@ Here is a visual representation of the project:
 | ![Image 7](images/IMG_3906.jpeg) | ![Image 8](images/IMG_3907.jpeg) |
 | ![Image 9](images/IMG_3934.jpg) | ![Image 10](images/IMG_0983.jpeg) |
 | ![Image 11](images/IMG_0985.jpeg) | ![Image 12](images/IMG_0987.jpeg) |
-| ![Image 13](images/IMG_0990.jpg) | ![Image 14](images/IMG_4042.jpeg) |
+| ![Image 13](images/IMG_0990.jpeg) | ![Image 14](images/IMG_4042.jpeg) |
 | ![Image 15](images/IMG_4340.jpeg) |  |
 
 
