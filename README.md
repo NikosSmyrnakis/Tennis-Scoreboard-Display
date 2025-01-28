@@ -10,7 +10,7 @@ This project involved creating a functional tennis scoreboard display. The image
 
 Here is a visual of the final product:
 
-![Tennis Scoreboard](images/IMG_1111.jpg)
+![Tennis Scoreboard](images/IMG_1111.jpg) || [Tennis app](images/Tennis_app.gif)
 
 ### Development Process
 | | |
