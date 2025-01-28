@@ -8,7 +8,7 @@ This project involved creating both hardware and software. The images below docu
 
 ## 🖼️ Project Images
 
-Here is a visual of the final product:
+This is the final product:
 
 <div align="center">
   <img src="images/IMG_1111.jpg" width="65%" alt="Tennis Scoreboard">
