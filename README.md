@@ -1,6 +1,10 @@
 # 📌 Tennis Scoreboard Display  
 A project showcasing the development of a tennis scoreboard.
+This project involved creating a functional tennis scoreboard display. The images above document the assembly, wiring, and final result.
 
+- 🛠️ **Technologies Used**: (Add microcontroller, software, and other tools used)
+- ⚡ **Features**: (Mention main functionalities)
+- 📌 **Future Improvements**: (List any planned updates)
 ---
 
 ## 🖼️ Project Images
@@ -22,15 +26,6 @@ Here is a visual representation of the project:
 | ![Image 15](images/IMG_4340.jpeg) |  |
 
 
-
----
-
-## 📝 Description
-This project involved creating a functional tennis scoreboard display. The images above document the assembly, wiring, and final result.
-
-- 🛠️ **Technologies Used**: (Add microcontroller, software, and other tools used)
-- ⚡ **Features**: (Mention main functionalities)
-- 📌 **Future Improvements**: (List any planned updates)
 
 ---
 
