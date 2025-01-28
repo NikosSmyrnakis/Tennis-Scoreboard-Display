@@ -35,7 +35,7 @@ Here is a visual of the final product:
   </tr>
   <tr>
     <td><img src="images/IMG_3906.jpeg" width="100%"></td>
-    <td><img src="images/IMG_3907.jpeg" width="100%"></td>
+    <td><img src="images/IMG_4340.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td><img src="images/IMG_3934.jpg" width="100%"></td>
@@ -50,7 +50,7 @@ Here is a visual of the final product:
     <td><img src="images/IMG_4042.jpeg" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="images/IMG_4340.jpeg" width="100%"></td>
+    <td><img src="images/IMG_3907.jpeg" width="100%"></td>
     <td><img src="images/IMG_5837.jpg" width="100%"></td>
   </tr>
 </table>
