@@ -26,12 +26,3 @@ Here is a visual of the final product:
 | ![Image 15](images/IMG_4340.jpeg) |  |
 
 
-
----
-
-## 🔗 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Tennis-Scoreboard-Display.git
-   ```
-2. Open the images folder to explore the project visuals.
