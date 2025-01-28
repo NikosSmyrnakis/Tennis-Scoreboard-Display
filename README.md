@@ -9,7 +9,7 @@ This project involved creating a functional tennis scoreboard display. The image
 
 ## 🖼️ Project Images
 
-Here is a visual representation of the project:
+Here is a visual of the final product:
 
 ![Tennis Scoreboard](images/IMG_1111.jpg)
 
