@@ -1,14 +1,40 @@
-# Tennis-Scoreboard-Display
-![IMG_0135](https://github.com/user-attachments/assets/2f286459-2202-4a76-9b33-7a831acb51d0 | width=100)
-![IMG_4340](https://github.com/user-attachments/assets/623845df-fd5b-44fe-9e30-e8ea5b69db41 | width=100)
-![IMG_4042](https://github.com/user-attachments/assets/3e8821ae-ac21-4084-9c24-6fbd0763eced | width=100)
-![IMG_3907](https://github.com/user-attachments/assets/2293e3fe-4970-4f3a-85a1-3a3200495bf4 | width=100)
-![IMG_3906](https://github.com/user-attachments/assets/456d17ce-d828-4e2f-8e61-c568385c8bd0 | width=100)
-![IMG_3766](https://github.com/user-attachments/assets/9fe5589b-c3a4-4679-a6bf-992b2d7bd678 | width=100)
-![IMG_3745](https://github.com/user-attachments/assets/f55f1f99-eff3-4423-9e6b-968679f2dc12 | width=100)
-![IMG_1564](https://github.com/user-attachments/assets/ea3e01f7-f3ec-4f45-b737-24d95a23e635 | width=100)
-![IMG_1490](https://github.com/user-attachments/assets/f63285b7-6e70-45ff-8b79-a178e0683d68 | width=100)
-![IMG_0990](https://github.com/user-attachments/assets/c796ce08-251c-4bd6-8d16-34de63b92446 | width=100)
-![IMG_0987](https://github.com/user-attachments/assets/aeb4202d-16f3-4109-9e37-7bb5fbdc98b5 | width=100)
-![IMG_0985](https://github.com/user-attachments/assets/c263a50c-86ea-4969-87f4-943bb47fd8a0 | width=100)
-![IMG_0983](https://github.com/user-attachments/assets/4623243e-5215-45ae-ba7e-4b6fec0179e2 | width=100)
+# 📌 Tennis Scoreboard Display  
+A project showcasing the development of a tennis scoreboard.
+
+---
+
+## 🖼️ Project Images
+
+Here is a visual representation of the project:
+
+![Tennis Scoreboard](images/IMG_0135.jpeg)
+
+### Development Process
+| | |
+|---|---|
+| ![Image 1](images/IMG_4340.jpeg) | ![Image 2](images/IMG_4042.jpeg) |
+| ![Image 3](images/IMG_3934.jpg) | ![Image 4](images/IMG_3907.jpeg) |
+| ![Image 5](images/IMG_3906.jpeg) | ![Image 6](images/IMG_3776.jpg) |
+| ![Image 7](images/IMG_3766.jpeg) | ![Image 8](images/IMG_3745.jpeg) |
+| ![Image 9](images/IMG_1564.jpeg) | ![Image 10](images/IMG_1490.jpeg) |
+| ![Image 11](images/IMG_1111.jpg) | ![Image 12](images/IMG_0990.jpeg) |
+| ![Image 13](images/IMG_0987.jpeg) | ![Image 14](images/IMG_0985.jpeg) |
+| ![Image 15](images/IMG_0983.jpeg) |  |
+
+---
+
+## 📝 Description
+This project involved creating a functional tennis scoreboard display. The images above document the assembly, wiring, and final result.
+
+- 🛠️ **Technologies Used**: (Add microcontroller, software, and other tools used)
+- ⚡ **Features**: (Mention main functionalities)
+- 📌 **Future Improvements**: (List any planned updates)
+
+---
+
+## 🔗 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Tennis-Scoreboard-Display.git
+   ```
+2. Open the images folder to explore the project visuals.
