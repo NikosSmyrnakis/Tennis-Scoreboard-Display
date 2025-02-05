@@ -2,7 +2,7 @@
 A project showcasing the development of a tennis scoreboard for outdoor usage.
 This project involved creating both hardware and software. The images below document the assembly, wiring, and final result.
 
-- 🛠️ **Technologies Used**: (ESP32, software designed in C++ AND Javascript, hardware and PCB Design in EasyEDA)
+- 🛠️ **Technologies Used**: (ESP32, software designed in C++ and Javascript, hardware and PCB Design in EasyEDA)
 - ⚡ **Features**: A User-friendly Application for both iOS and Android devices that controls the Display.
 ---
 
